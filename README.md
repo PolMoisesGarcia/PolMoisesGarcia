@@ -1,4 +1,10 @@
-# 💫 About Me:
+# ¡Hola, bienvenido a mi GitHub! 👋:
+Mi nombre es Pol Moises.
+Soy estudiante y autodidacta en el área de sistemas, con interés en programación, automatización y mejora continua.
+Este es mi espacio para compartir proyectos, prácticas y mi proceso de aprendizaje en tecnología.
+Acá vas a encontrar trabajos relacionados con Java, POO, SQL, Git, GitHub y Front-End, junto con proyectos que reflejan mi crecimiento en el área IT.
+
+## Un poco sobre mí
 <br>- 💻 Actualmente trabajo en proyectos personales con Java, POO y Front-End.<br>- 🤝 Me interesa colaborar en proyectos junior de desarrollo, QA o automatización de procesos.<br>- 🌱 Actualmente sigo fortaleciendo mis conocimientos en Java, SQL, Git, GitHub y JavaScript.<br>- 🧠 También me interesa el uso de herramientas de inteligencia artificial aplicadas al análisis, la productividad y la mejora continua.<br>- 💬 Podés preguntarme sobre UML, POO, Git/GitHub, lógica de programación y mi proceso de aprendizaje en sistemas.<br>- ⚡ Disfruto aprender tecnología de forma práctica y me interesan la automatización, la mejora continua y los proyectos que combinan análisis con solución.
 
 
